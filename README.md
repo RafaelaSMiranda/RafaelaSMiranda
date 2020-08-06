@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I currently work with Full Stack development, mainly in Node JS, React JS and React Native.
+I also work and like to develop using Java, C, Python and mobile development.
+I am currently focused on improving my studies in Node JS, React JS and React Native.
+I am in the 6th period of the Information Systems course, at the Federal University of Ouro Preto - Campus João Monlevade.
+I like to program, study and always learn something new.
